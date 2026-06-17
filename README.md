@@ -10,7 +10,7 @@ I specialize in designing and developing systems using **PHP, MySQL, JavaScript,
 
 ##  About Me
 
-*  Final Year IT Student
+*  Holder of Diploma in Information Technology (IT) 
 *  Passionate about building real-world systems
 *  Strong interest in backend development & system design
 *  Focused on creating solutions that improve efficiency and accessibility
@@ -59,9 +59,7 @@ A full-stack web-based campus transport management system that connects students
 * Admin management dashboard
 
  Live Demo: https://mu-sts.gt.tc/campus-transport-system/
-
  Documentation: https://mu-sts.gt.tc/campus-transport-system/how_to_book.php
-
  Repository: https://github.com/balcomfredrick71-sketch/mu-sts
 
 ---
