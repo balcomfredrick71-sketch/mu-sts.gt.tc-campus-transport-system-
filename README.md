@@ -40,7 +40,7 @@ I specialize in designing and developing systems using **PHP, MySQL, JavaScript,
 **Tools**
 
 * Git & GitHub
-* XAMPP / WAMP
+* XAMPP
 * VS Code
 
 ---
