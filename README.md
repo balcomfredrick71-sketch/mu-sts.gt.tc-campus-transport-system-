@@ -1,4 +1,4 @@
-# Hi, I'm Fredrick
+# Hi, I'm Chacha Fredrick
 
 ## Software Developer | IT Enthusiast | System Builder
 
