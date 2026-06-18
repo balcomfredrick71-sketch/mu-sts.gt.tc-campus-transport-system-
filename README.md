@@ -58,7 +58,7 @@ A full-stack web-based campus transport management system that connects students
 * Trip tracking and history
 * Admin management dashboard
 
- Live Demo: mu-sts.gt.tc
+ Live Demo: https://mu-sts.gt.tc
  
  Documentation: https://mu-sts.gt.tc/campus-transport-system/how_to_book.php
  
